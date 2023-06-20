@@ -1,0 +1,17 @@
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Persistencia\bin\Debug\net7.0\Persistencia.deps.json
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Persistencia\bin\Debug\net7.0\Persistencia.runtimeconfig.json
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Persistencia\bin\Debug\net7.0\Persistencia.dll
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Persistencia\bin\Debug\net7.0\Persistencia.pdb
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Persistencia\bin\Debug\net7.0\Model.dll
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Persistencia\bin\Debug\net7.0\Model.pdb
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Persistencia\obj\Debug\net7.0\Persistencia.csproj.AssemblyReference.cache
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Persistencia\obj\Debug\net7.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Persistencia\obj\Debug\net7.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Persistencia\obj\Debug\net7.0\Persistencia.AssemblyInfo.cs
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Persistencia\obj\Debug\net7.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Persistencia\obj\Debug\net7.0\Persistencia.csproj.CopyComplete
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Persistencia\obj\Debug\net7.0\Persistencia.dll
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Persistencia\obj\Debug\net7.0\refint\Persistencia.dll
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Persistencia\obj\Debug\net7.0\Persistencia.pdb
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Persistencia\obj\Debug\net7.0\Persistencia.genruntimeconfig.cache
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Persistencia\obj\Debug\net7.0\ref\Persistencia.dll
