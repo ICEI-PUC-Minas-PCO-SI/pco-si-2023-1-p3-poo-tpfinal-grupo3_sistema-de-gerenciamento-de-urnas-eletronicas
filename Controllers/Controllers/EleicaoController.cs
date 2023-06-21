@@ -57,7 +57,7 @@ namespace Controller.Controllers
                     throw new Exception(sb.ToString());
                 }
 
-                var dataModelUpdate = data.Where(x => x.Id.HasValue).Select(x => new Eleicao(x.Ano, x.Mes, (ETipoEleicao)x.TipoEleicao, x.Vagas) { Id = x.Id!.Value }).ToList();
+                var dataModelUpdate = data.Where(x => x.Id.HasValue).Select(x => new Eleicao(x.Ano, x.Mes, (ETipoEleicao)x.TipoEleicao, x.Vagas, (EStatusEleicao)x.StatusEleicao) { Id = x.Id!.Value }).ToList();
 
 
 

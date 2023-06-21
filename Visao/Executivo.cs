@@ -81,7 +81,7 @@ namespace Urna
 
                 if (candidato != null)
                 {
-                    msg = $"Candidato {candidato.Nome} do partido {candidato.PartidoNome} \n Concorrendo ao cargo de {((ECargo)candidato.Cargo!.Value).GetDescription()}.";
+                    msg = $"Candidato {candidato.Nome} do partido {candidato.PartidoNome} \r\n Concorrendo ao cargo de {((ECargo)candidato.Cargo!.Value).GetDescription()}.";
                     candidatoSelecionado = candidato;
                 }
                 else if (numeroUrna.Text == "00")

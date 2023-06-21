@@ -44,6 +44,18 @@ namespace Model.Models
             this.Validate();
         }
 
+
+        public Eleicao(short ano, short mes, ETipoEleicao tipoEleicao, short? vagas, EStatusEleicao status)
+        {
+            this.Ano = ano;
+            this.Mes = mes;
+            this.Vagas = vagas;
+            this.StatusEleicao = status;
+            this.TipoEleicao = tipoEleicao;
+            this.StatusEleicao = EStatusEleicao.ABERTA;
+            this.Validate();
+        }
+
         //Método usado para validar o contexto do modelo
         public override void Validate()
         {

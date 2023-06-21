@@ -120,7 +120,6 @@ namespace Controller.Controllers
                 if (eleicaoId > 0)
                 {
                     var voto = new Voto(eleicaoId, candidatoId);
-                    voto.VotoBranco();
                     dc.Set<Voto>().Add(voto);
                     dc.SaveChanges();
                 }
