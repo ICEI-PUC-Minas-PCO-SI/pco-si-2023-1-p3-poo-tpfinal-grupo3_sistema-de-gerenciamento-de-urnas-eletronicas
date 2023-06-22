@@ -1,0 +1,24 @@
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Negocio\bin\Debug\net7.0\Model.deps.json
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Negocio\bin\Debug\net7.0\Model.dll
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Negocio\bin\Debug\net7.0\Model.pdb
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Negocio\obj\Debug\net7.0\Model.csproj.AssemblyReference.cache
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Negocio\obj\Debug\net7.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Negocio\obj\Debug\net7.0\Model.AssemblyInfoInputs.cache
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Negocio\obj\Debug\net7.0\Model.AssemblyInfo.cs
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Negocio\obj\Debug\net7.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Negocio\obj\Debug\net7.0\Model.dll
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Negocio\obj\Debug\net7.0\refint\Model.dll
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Negocio\obj\Debug\net7.0\Model.pdb
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Negocio\obj\Debug\net7.0\ref\Model.dll
+C:\Users\limal\OneDrive\Área de Trabalho\Video pros cotoco\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\Negocio\bin\Debug\net7.0\Model.deps.json
+C:\Users\limal\OneDrive\Área de Trabalho\Video pros cotoco\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\Negocio\bin\Debug\net7.0\Model.dll
+C:\Users\limal\OneDrive\Área de Trabalho\Video pros cotoco\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\Negocio\bin\Debug\net7.0\Model.pdb
+C:\Users\limal\OneDrive\Área de Trabalho\Video pros cotoco\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\Negocio\obj\Debug\net7.0\Model.csproj.AssemblyReference.cache
+C:\Users\limal\OneDrive\Área de Trabalho\Video pros cotoco\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\Negocio\obj\Debug\net7.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limal\OneDrive\Área de Trabalho\Video pros cotoco\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\Negocio\obj\Debug\net7.0\Model.AssemblyInfoInputs.cache
+C:\Users\limal\OneDrive\Área de Trabalho\Video pros cotoco\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\Negocio\obj\Debug\net7.0\Model.AssemblyInfo.cs
+C:\Users\limal\OneDrive\Área de Trabalho\Video pros cotoco\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\Negocio\obj\Debug\net7.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\limal\OneDrive\Área de Trabalho\Video pros cotoco\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\Negocio\obj\Debug\net7.0\Model.dll
+C:\Users\limal\OneDrive\Área de Trabalho\Video pros cotoco\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\Negocio\obj\Debug\net7.0\refint\Model.dll
+C:\Users\limal\OneDrive\Área de Trabalho\Video pros cotoco\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\Negocio\obj\Debug\net7.0\Model.pdb
+C:\Users\limal\OneDrive\Área de Trabalho\Video pros cotoco\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\Negocio\obj\Debug\net7.0\ref\Model.dll

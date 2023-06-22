@@ -1,0 +1,34 @@
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Controllers\bin\Debug\net7.0\Controller.deps.json
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Controllers\bin\Debug\net7.0\Controller.dll
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Controllers\bin\Debug\net7.0\Controller.pdb
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Controllers\bin\Debug\net7.0\Model.dll
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Controllers\bin\Debug\net7.0\Persistencia.dll
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Controllers\bin\Debug\net7.0\Model.pdb
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Controllers\bin\Debug\net7.0\Persistencia.pdb
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Controllers\obj\Debug\net7.0\Controller.csproj.AssemblyReference.cache
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Controllers\obj\Debug\net7.0\Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Controllers\obj\Debug\net7.0\Controller.AssemblyInfoInputs.cache
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Controllers\obj\Debug\net7.0\Controller.AssemblyInfo.cs
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Controllers\obj\Debug\net7.0\Controller.csproj.CoreCompileInputs.cache
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Controllers\obj\Debug\net7.0\Controller.csproj.CopyComplete
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Controllers\obj\Debug\net7.0\Controller.dll
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Controllers\obj\Debug\net7.0\refint\Controller.dll
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Controllers\obj\Debug\net7.0\Controller.pdb
+C:\Users\limal\OneDrive\Área de Trabalho\GitHub-Urna\UrnaEletronica\Controllers\obj\Debug\net7.0\ref\Controller.dll
+C:\Users\limal\OneDrive\Área de Trabalho\Video pros cotoco\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\Controllers\bin\Debug\net7.0\Controller.deps.json
+C:\Users\limal\OneDrive\Área de Trabalho\Video pros cotoco\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\Controllers\bin\Debug\net7.0\Controller.dll
+C:\Users\limal\OneDrive\Área de Trabalho\Video pros cotoco\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\Controllers\bin\Debug\net7.0\Controller.pdb
+C:\Users\limal\OneDrive\Área de Trabalho\Video pros cotoco\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\Controllers\bin\Debug\net7.0\Model.dll
+C:\Users\limal\OneDrive\Área de Trabalho\Video pros cotoco\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\Controllers\bin\Debug\net7.0\Persistencia.dll
+C:\Users\limal\OneDrive\Área de Trabalho\Video pros cotoco\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\Controllers\bin\Debug\net7.0\Model.pdb
+C:\Users\limal\OneDrive\Área de Trabalho\Video pros cotoco\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\Controllers\bin\Debug\net7.0\Persistencia.pdb
+C:\Users\limal\OneDrive\Área de Trabalho\Video pros cotoco\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\Controllers\obj\Debug\net7.0\Controller.csproj.AssemblyReference.cache
+C:\Users\limal\OneDrive\Área de Trabalho\Video pros cotoco\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\Controllers\obj\Debug\net7.0\Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limal\OneDrive\Área de Trabalho\Video pros cotoco\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\Controllers\obj\Debug\net7.0\Controller.AssemblyInfoInputs.cache
+C:\Users\limal\OneDrive\Área de Trabalho\Video pros cotoco\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\Controllers\obj\Debug\net7.0\Controller.AssemblyInfo.cs
+C:\Users\limal\OneDrive\Área de Trabalho\Video pros cotoco\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\Controllers\obj\Debug\net7.0\Controller.csproj.CoreCompileInputs.cache
+C:\Users\limal\OneDrive\Área de Trabalho\Video pros cotoco\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\Controllers\obj\Debug\net7.0\Controller.csproj.CopyComplete
+C:\Users\limal\OneDrive\Área de Trabalho\Video pros cotoco\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\Controllers\obj\Debug\net7.0\Controller.dll
+C:\Users\limal\OneDrive\Área de Trabalho\Video pros cotoco\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\Controllers\obj\Debug\net7.0\refint\Controller.dll
+C:\Users\limal\OneDrive\Área de Trabalho\Video pros cotoco\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\Controllers\obj\Debug\net7.0\Controller.pdb
+C:\Users\limal\OneDrive\Área de Trabalho\Video pros cotoco\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\Controllers\obj\Debug\net7.0\ref\Controller.dll
