@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\limal\\.nuget\\packages\\": {}
+    "C:\\Users\\3579830\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\limal\\OneDrive\\Área de Trabalho\\Video pros cotoco\\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\\Negocio\\Model.csproj",
+      "projectUniqueName": "C:\\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\\Negocio\\Model.csproj",
       "projectName": "Model",
-      "projectPath": "C:\\Users\\limal\\OneDrive\\Área de Trabalho\\Video pros cotoco\\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\\Negocio\\Model.csproj",
-      "packagesPath": "C:\\Users\\limal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\limal\\OneDrive\\Área de Trabalho\\Video pros cotoco\\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\\Negocio\\obj\\",
+      "projectPath": "C:\\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\\Negocio\\Model.csproj",
+      "packagesPath": "C:\\Users\\3579830\\.nuget\\packages\\",
+      "outputPath": "C:\\pco-si-2023-1-p3-poo-tpfinal-grupo3_sistema-de-gerenciamento-de-urnas-eletronicas\\Negocio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\limal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\3579830\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

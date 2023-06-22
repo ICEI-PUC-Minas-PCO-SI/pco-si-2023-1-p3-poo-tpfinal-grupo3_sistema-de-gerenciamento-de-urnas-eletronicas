@@ -81,11 +81,11 @@ namespace Controller.Controllers
                                             ((e.TipoEleicao == ETipoEleicao.EXECUTIVO &&
                                              x.Cargo == ECargo.PRESIDENTE ||
                                              x.Cargo == ECargo.GOVERNADOR ||
-                                             x.Cargo == ECargo.VEREADOR) ||
+                                             x.Cargo == ECargo.PREFEITO) ||
                                              (e.TipoEleicao == ETipoEleicao.LEGISLATIVO &&
                                              !(x.Cargo == ECargo.PRESIDENTE ||
                                              x.Cargo == ECargo.GOVERNADOR ||
-                                             x.Cargo == ECargo.VEREADOR))
+                                             x.Cargo == ECargo.PREFEITO))
                                              ))).Select(x=> new CandidatoDTO()
                                              {
                                                  Cargo = (int)x.Cargo!.Value,
